@@ -6,7 +6,7 @@ Status date: 2026-06-19
 
 CLITZ is in first-wave MVP buildout.
 
-The WordPress MVP has local implementation receipts, lint receipts, a supervised deployment runbook, and a protected public GitHub surface package.
+The WordPress MVP has local implementation receipts, lint receipts, a supervised deployment runbook, and a protected public GitHub surface published at `https://github.com/thefayth/clitz`.
 
 ## Completed
 
@@ -16,6 +16,7 @@ The WordPress MVP has local implementation receipts, lint receipts, a supervised
 - WordPress draft page content prepared.
 - Public/private boundary documented.
 - Launch checklist and receipt files prepared.
+- GitHub repository created and initial public surface pushed.
 - Live WordPress and IONOS access kept behind a supervised gate.
 
 ## Not Yet Public-Live
@@ -36,4 +37,3 @@ The WordPress MVP has local implementation receipts, lint receipts, a supervised
 4. Create or update `/projects/clitz/` as draft.
 5. Verify draft preview on desktop and mobile.
 6. Publish only after Faith's human review.
-

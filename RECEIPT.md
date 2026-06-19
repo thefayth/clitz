@@ -6,7 +6,7 @@ Generated: 2026-06-19
 
 - Public slug: `clitz`
 - Owner: `thefayth`
-- Planned repo: `https://github.com/thefayth/clitz`
+- Repo: `https://github.com/thefayth/clitz`
 - Public web draft: `https://faithcheltenham.com/projects/clitz/`
 - Source workspace: private CLITZ local workspace
 - Export root: `_github_public_export`
@@ -16,6 +16,14 @@ Generated: 2026-06-19
 - Local deploy dry run completed and private receipt was retained outside this public repository.
 - Plugin package checksum was recorded privately with the deploy receipt.
 - Local verifier: `6 passed, 0 warnings, 0 failed`
+
+## GitHub Publish Evidence
+
+- Repository created: `https://github.com/thefayth/clitz`
+- Initial public-surface commit: `5ff55de648021f50b01fb72fd08e52157ea49a98`
+- Visibility: public
+- Homepage metadata: `https://faithcheltenham.com/projects/clitz/`
+- Live WordPress/IONOS changes: none
 
 ## Public Export Boundary
 
