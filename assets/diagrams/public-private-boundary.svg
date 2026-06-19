@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">CLITZ public and private boundary</title>
+  <desc id="desc">Private implementation and records are audited into a public-safe export for GitHub and WordPress draft materials.</desc>
+  <style>
+    .bg{fill:#10131f}
+    .private{fill:#1f2937;stroke:#f43f5e;stroke-width:3;rx:20}
+    .public{fill:#fff7ed;stroke:#f59e0b;stroke-width:3;rx:20}
+    .gate{fill:#ecfeff;stroke:#06b6d4;stroke-width:3;rx:20}
+    .title{font-family:Arial,Helvetica,sans-serif;font-size:30px;font-weight:800;fill:#ffffff}
+    .text{font-family:Arial,Helvetica,sans-serif;font-size:21px;font-weight:700;fill:#111827}
+    .light{font-family:Arial,Helvetica,sans-serif;font-size:18px;fill:#e5e7eb}
+    .dark{font-family:Arial,Helvetica,sans-serif;font-size:18px;fill:#374151}
+    .arrow{stroke:#fbbf24;stroke-width:5;fill:none;marker-end:url(#arrow)}
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#fbbf24"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1280" height="520"/>
+  <text class="title" x="48" y="60">CLITZ Boundary: Public Signal, Private Machinery</text>
+  <rect class="private" x="60" y="130" width="270" height="220"/>
+  <text class="title" x="92" y="180">Private</text>
+  <text class="light" x="92" y="220">source code</text>
+  <text class="light" x="92" y="250">raw queues</text>
+  <text class="light" x="92" y="280">records and receipts</text>
+  <text class="light" x="92" y="310">deployment secrets</text>
+  <rect class="gate" x="420" y="150" width="260" height="180"/>
+  <text class="text" x="458" y="205">Public-safe</text>
+  <text class="text" x="458" y="236">export audit</text>
+  <text class="dark" x="458" y="276">remove secrets, source,</text>
+  <text class="dark" x="458" y="304">queues, prompts, data</text>
+  <rect class="public" x="770" y="110" width="220" height="125"/>
+  <text class="text" x="806" y="162">GitHub</text>
+  <text class="dark" x="806" y="194">protected surface</text>
+  <rect class="public" x="770" y="280" width="220" height="125"/>
+  <text class="text" x="806" y="332">WordPress</text>
+  <text class="dark" x="806" y="364">draft package</text>
+  <rect class="gate" x="1060" y="190" width="170" height="130"/>
+  <text class="text" x="1090" y="238">Human</text>
+  <text class="text" x="1090" y="268">review</text>
+  <text class="dark" x="1090" y="296">before publish</text>
+  <path class="arrow" d="M330 240 H420"/>
+  <path class="arrow" d="M680 240 C720 240 720 172 770 172"/>
+  <path class="arrow" d="M680 240 C720 240 720 342 770 342"/>
+  <path class="arrow" d="M990 342 C1035 342 1030 256 1060 256"/>
+</svg>
+

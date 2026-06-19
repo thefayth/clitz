@@ -1,0 +1,10 @@
+flowchart LR
+  A["Public submission"] --> B["Pending listing or review"]
+  B --> C["Moderator queue"]
+  C --> D["Verifier decision"]
+  D --> E["Published map or directory card"]
+  D --> F["Held, disputed, outdated, or removed"]
+  C --> G["Audit event and source log"]
+  E --> H["Report abuse or request update"]
+  H --> C
+

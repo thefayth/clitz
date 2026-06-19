@@ -1,0 +1,37 @@
+{
+  "project": "CLITZ.xyz",
+  "slug": "clitz",
+  "owner": "thefayth",
+  "visibility": "public",
+  "repositoryType": "protected-public-surface",
+  "sourceRelease": false,
+  "licensePosture": "all-rights-reserved",
+  "publicWebDraft": "https://faithcheltenham.com/projects/clitz/",
+  "primaryAsset": "assets/hero/hero-image.png",
+  "requiredBoundarySentence": "This repository is a protected public project surface. It is not the full source code, operational system, private workflow, or data room.",
+  "wordpressMvp": {
+    "privatePlugin": "clitz-galaxy-core",
+    "publicShortcodes": [
+      "clitz_galaxy_home",
+      "clitz_map",
+      "clitz_directory",
+      "clitz_submit_listing",
+      "clitz_reviews",
+      "clitz_mutual_aid",
+      "clitz_moderation_dashboard"
+    ],
+    "liveDeployGate": "supervised-only"
+  },
+  "excluded": [
+    "source code",
+    "credentials",
+    "prompts",
+    "private workflows",
+    "runtime state",
+    "raw queues",
+    "admin screenshots",
+    "adult private operations",
+    "vault data",
+    "deployment secrets"
+  ]
+}

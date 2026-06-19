@@ -1,0 +1,14 @@
+flowchart TD
+  A["Visitor form"] --> B["Pending post"]
+  B --> C["Moderator dashboard"]
+  C --> D{"Decision"}
+  D --> E["Approve"]
+  D --> F["Dispute"]
+  D --> G["Mark outdated"]
+  D --> H["Remove or hold"]
+  E --> I["Public card or safe marker"]
+  F --> J["Disputed badge"]
+  G --> K["Outdated badge"]
+  H --> L["Private record"]
+  C --> M["Audit event"]
+
