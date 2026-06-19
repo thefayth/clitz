@@ -8,6 +8,7 @@
 - [x] Public-safe image package created.
 - [x] Protected GitHub export assembled outside the private workspace root.
 - [x] Protected GitHub public surface pushed to `https://github.com/thefayth/clitz`.
+- [x] Canva launch report and social derivatives created with the `XXYYZZ SOCIETY` brand kit.
 - [ ] Real WordPress activation smoke on supervised target.
 - [ ] Draft WordPress pages verified in browser.
 - [ ] Faith review before public publish.

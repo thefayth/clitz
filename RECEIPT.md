@@ -25,6 +25,13 @@ Generated: 2026-06-19
 - Homepage metadata: `https://faithcheltenham.com/projects/clitz/`
 - Live WordPress/IONOS changes: none
 
+## Canva Launch Evidence
+
+- Launch report: `https://www.canva.com/d/X1-ExI09-78uZGz`
+- Social preview: `https://www.canva.com/d/w97Fo-Gg4HEsNvJ`
+- Square social post: `https://www.canva.com/d/XZmtr77qABGeBiX`
+- Vertical story: `https://www.canva.com/d/x0_zTohqKDw8vJ6`
+
 ## Public Export Boundary
 
 Included: public docs, public-safe image assets, workflow diagrams, WordPress page draft, status, ownership, security, launch checklist, and receipts.

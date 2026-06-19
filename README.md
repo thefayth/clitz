@@ -116,6 +116,7 @@ The private CLITZ Galaxy Core plugin exposes these public WordPress shortcodes:
 - [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - [Workflow Diagrams](docs/WORKFLOW_DIAGRAMS.md)
 - [Privacy Review](docs/PRIVACY_REVIEW.md)
+- [Canva Launch Receipt](docs/CANVA_LAUNCH_RECEIPT.md)
 - [WordPress Page Draft](wordpress/page.md)
 
 Public web destination draft: [FaithCheltenham.com/projects/clitz](https://faithcheltenham.com/projects/clitz/)
@@ -123,4 +124,3 @@ Public web destination draft: [FaithCheltenham.com/projects/clitz](https://faith
 ## Ownership
 
 CLITZ.xyz is owned by Faith Cheltenham / XXYYZZ Society LLC. All rights reserved. No source release is granted by this repository. No redistribution, AI training, commercial use, sublicensing, or implied permission is granted.
-
